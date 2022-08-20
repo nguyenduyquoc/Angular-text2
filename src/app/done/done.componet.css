@@ -1,0 +1,7 @@
+.row .col-3 .child{
+  height: 200px;
+  border: 3px solid #888585;
+  margin: 10px;
+  padding: 20px;
+  background-color: #efefef;
+}
